@@ -30,11 +30,10 @@ Este projeto é um **CRUD (Create, Read, Update, Delete)** desenvolvido em **PHP
 
 ## ⚙️ Tecnologias Utilizadas
 
-- **PHP** (versão 7+)
+- **PHP** 
 - **MySQL**
 - **HTML5**
-- **CSS3**
-- **Bootstrap** (opcional, se utilizado no front-end)
+- **Bootstrap** 
 
 ---
 
